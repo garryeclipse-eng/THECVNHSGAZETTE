@@ -1,0 +1,10 @@
+{
+  "name": "The CVNHS Gazette",
+  "short_name": "CVNHS Gazette",
+  "description": "Official student publication of Catubig Valley National High School",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#075b35",
+  "icons": [{"src":"assets/publication-logo.png","sizes":"any","type":"image/png","purpose":"any maskable"}]
+}
